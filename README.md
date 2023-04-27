@@ -5,7 +5,7 @@
 |📝| This component is in the design and illustration phase            |
 |🟠| This component is under development            |
 |⚠️| This component requires feedback before further development |
-|🟡| This components files are under final review |
+|🟡| This component files are under final review |
 |🟢| This component is ready for production |
 
 
