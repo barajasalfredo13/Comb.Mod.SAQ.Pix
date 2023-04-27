@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 34,
+    "active_layer": 1,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -64,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "dffffff_ffffffff",
+    "visible_layers": "ffffffc_fffffffc",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Pixel.Combs.kicad_prl",
+    "filename": "_autosave-Pixel.Collectioon.Board.kicad_prl",
     "version": 3
   },
   "project": {
