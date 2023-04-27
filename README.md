@@ -18,11 +18,11 @@
 
 ## Current Developments
 ### 1.KiCAD : 
-⚠️- **[Pixel Combs](/1.KiCAD/Pixel.Combs):**
-
-
-🟠- **[Collection Board](/1.KiCAD/Pixel.Collection.Board):**
-
-
+⚠️- **[Pixel Combs](/1.KiCAD/Pixel.Combs):**  
+<img src="./ReadMeImages/Pixel.Combs.png" width="50%">   
+  
+🟠- **[Collection Board](/1.KiCAD/Pixel.Collection.Board):**  
+<img src="./ReadMeImages/Pixel.Collection.Board.png" width="50%">   
+  
 ## Planned Development
 - Steel Enclosure
