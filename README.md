@@ -27,4 +27,4 @@ img updated: 4/27/2023
 img updated: 4/27/2023  
   
 ## Planned Development
-- Steel Enclosure
+📝- Steel Enclosure
