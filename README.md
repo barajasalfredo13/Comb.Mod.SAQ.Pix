@@ -25,6 +25,10 @@ img updated: 4/27/2023
 🟠- **[Collection Board](/1.KiCAD/Pixel.Collection.Board):** ./1.KiCAD/Pixel.Collection.Board  
 <img src="./ReadMeImages/Pixel.Collection.Board.png" width="50%">   
 img updated: 4/27/2023  
+
+📝- **[Steel Vessel](/1.KiCAD/Pixel.Collection.Board):** ./1.KiCAD/Pixel.Collection.Board  
+<img src="./ReadMeImages/Steel.Vessel.png" width="50%">   
+img updated: 4/27/2023  
   
 ## Planned Development
-📝- Steel Enclosure
+
