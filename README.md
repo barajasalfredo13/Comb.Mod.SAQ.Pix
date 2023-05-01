@@ -26,9 +26,9 @@ img updated: 4/27/2023
 <img src="./ReadMeImages/Pixel.Collection.Board.png" width="50%">   
 img updated: 4/27/2023  
 
-📝- **[Steel Vessel](/1.KiCAD/Pixel.Collection.Board):** ./1.KiCAD/Pixel.Collection.Board  
+📝- **[Steel Vessel](Placeholder):**   
 <img src="./ReadMeImages/Steel.Vessel.png" width="50%">   
-img updated: 4/27/2023  
+img updated: 4/30/2023  
   
 ## Planned Development
 
