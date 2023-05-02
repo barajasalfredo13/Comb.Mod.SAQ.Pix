@@ -20,7 +20,7 @@
 ### 1.KiCAD : 
 ⚠️- **[Pixel Combs](/1.KiCAD/Pixel.Combs):** ./1.KiCAD/Pixel.Combs  
 <img src="./ReadMeImages/Pixel.Combs.png" width="50%">   
-img updated: 4/27/2023  
+img updated: 5/2/2023  
   
 🟠 - **[Collection Board](/1.KiCAD/Pixel.Collection.Board):** ./1.KiCAD/Pixel.Collection.Board  
 <img src="./ReadMeImages/Pixel.Collection.Board.png" width="50%">   
