@@ -18,7 +18,7 @@
 
 ## Current Developments
 ### 1.KiCAD : 
-⚠️- **[Pixel Combs](/1.KiCAD/Pixel.Combs):** ./1.KiCAD/Pixel.Combs  
+🟠 - **[Pixel Combs](/1.KiCAD/Pixel.Combs):** ./1.KiCAD/Pixel.Combs  
 <img src="./ReadMeImages/Pixel.Combs.png" width="50%">   
 img updated: 5/2/2023  
   
