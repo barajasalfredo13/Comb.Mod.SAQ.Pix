@@ -20,6 +20,13 @@
 ### 1.KiCAD : 
 🟠 - **[Pixel Combs](/1.KiCAD/Pixel.Combs):** ./1.KiCAD/Pixel.Combs  
 <img src="./ReadMeImages/Pixel.Combs.png" width="50%">   
+
+Geometry:  
+(Outer Radius) : 40 mm
+(Inner Radius) : 30 mm
+(Key Cut Radius) : 5 mm
+
+
 img updated: 5/2/2023  
   
 🟠 - **[Collection Board](/1.KiCAD/Pixel.Collection.Board):** ./1.KiCAD/Pixel.Collection.Board  
@@ -29,6 +36,11 @@ img updated: 5/2/2023
 🟠 - **[Steel Vessel](/2.Fusion360/Vessel):** ./2.Fusion360/Vessel  
 <img src="./ReadMeImages/Steel.Vessel.png" width="50%">   
 img updated: 5/2/2023  
+ - **[Steel Vessel 2](/2.Fusion360/Vessel):** ./2.Fusion360/Vessel  
+<img src="./ReadMeImages/Steel.Vessel.2.png" width="50%">   
+img.updated: 5/7/2023  
+**Note**  
+> Currently I am thinking of two designs for the steel vessel. The first design will not need a redesign of the **[Collection Board](/1.KiCAD/Pixel.Collection.Board):**. The second design will reduce the size of the collection board and will be exchangable as long as a support is built for it. The support item has been standardized so that it is not difficult to upgrade for larger channel support
   
 ## Planned Development
 
