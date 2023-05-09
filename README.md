@@ -41,7 +41,7 @@ img updated: 5/2/2023
 <img src="./ReadMeImages/Steel.Vessel.2.png" width="50%">   
 img.updated: 5/7/2023  
 
-Note:  Currently I am thinking of two designs for the steel vessel. The first design will not need a redesign of the first vessel. The second design will reduce the size of the collection board and will be exchangable as long as a support is built for it. The support item has been standardized so that it is not difficult to upgrade for larger channel support   
+Note:  Currently I am thinking of two designs for the steel vessel. The first design will not need a redesign of the collection board. The second design will reduce the size of the collection board and will be exchangable as long as a support is built for it. The support item has been standardized so that it is not difficult to upgrade for larger channel support. Only part of the system will have to be adjusted if an upgrade is needed.     
    
 ## Planned Development
 
