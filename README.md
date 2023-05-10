@@ -14,19 +14,19 @@
 
 
 
-## Finished Developments
-
-## Current Developments
-### 1.KiCAD : 
+## Finished Developments  
+  
+## Current Developments  
+### 1.KiCAD :  
 🟠 - **[Pixel Combs](/1.KiCAD/Pixel.Combs):** ./1.KiCAD/Pixel.Combs  
 <img src="./ReadMeAssets/Images/Pixel.Combs.png" width="50%">   
-
+  
 Geometry:  
-(Outer Radius) : 40 mm
-(Inner Radius) : 30 mm
-(Key Cut Radius) : 5 mm
-
-
+(Outer Radius) : 40 mm  
+(Inner Radius) : 30 mm  
+(Key Cut Radius) : 5 mm  
+  
+  
 img updated: 5/2/2023  
   
 🟠 - **[Collection Board](/1.KiCAD/Pixel.Collection.Board):** ./1.KiCAD/Pixel.Collection.Board  
