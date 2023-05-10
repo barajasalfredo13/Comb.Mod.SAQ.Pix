@@ -34,17 +34,13 @@ img updated: 5/2/2023
 <img src="./ReadMeAssets/Images/Pixel.Collection.Board.png" width="50%">   
 img updated: 5/2/2023  
 
-🟠 - **[Steel Vessel 1](/2.Fusion360/Vessel):** ./2.Fusion360/Vessel/SAQ.Pix.Vessel.5.2.2023    
-  
+🟠 - **[Steel Vessel](/2.Fusion360/Vessel):** ./2.Fusion360/Vessel/Smooth.SAQ.Pix.Vessel.5.10.2023    
+**[🌐 3D Online Viewer](/ReadMEAssets/Files/SAQ.Vessel.stl)**  
 <img src="./ReadMeAssets/Images/Steel.Vessel.png" width="50%">   
-img updated: 5/2/2023  
+img updated: 5/10/2023  
+ 
 
-🟠 - **[Steel Vessel 2](/2.Fusion360/Vessel):** ./2.Fusion360/Vessel/Smooth.SAQ.Pix.Vessel.5.9.2023.   
-  **[Online Viewer](/ReadMEAssets/Files/):**  
-<img src="./ReadMeAssets/Images/Steel.Vessel.2.png" width="50%">   
-img.updated: 5/7/2023  
 
-Note:  Currently I am thinking of two designs for the steel vessel. The first design will not need a redesign of the collection board. The second design will reduce the size of the collection board and will be exchangable as long as a support is built for it. The support item has been standardized so that it is not difficult to upgrade for larger channel support. Only part of the system will have to be adjusted if an upgrade is needed.     
    
 ## Planned Development
 
