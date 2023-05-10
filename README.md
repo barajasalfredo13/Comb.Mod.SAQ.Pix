@@ -24,7 +24,6 @@
 Geometry:  
 (Outer Radius) : 40 mm  
 (Inner Radius) : 30 mm  
-(Key Cut Radius) : 5 mm  
   
   
 img updated: 5/2/2023  
@@ -36,7 +35,7 @@ img updated: 5/2/2023
 
 🟠 - **[Steel Vessel](/2.Fusion360/Vessel):** ./2.Fusion360/Vessel/Smooth.SAQ.Pix.Vessel.5.10.2023    
 **[🌐 3D Online Viewer](/ReadMEAssets/Files/SAQ.Vessel.stl)**  
-<img src="./ReadMeAssets/Images/Steel.Vessel.png" width="50%">   
+<img src="./ReadMEAssets/Images/Steel.Vessel.png" width="50%">   
 img updated: 5/10/2023  
  
 
