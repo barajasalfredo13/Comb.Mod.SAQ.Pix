@@ -37,7 +37,17 @@ img updated: 5/2/2023
 **[🌐 3D Online Viewer](/ReadMeAssets/Files/SAQ.Vessel.stl)**  
 <img src="./ReadMeAssets/Images/Steel.Vessel.png" width="50%">   
 img updated: 5/10/2023  
- 
+
+Assets :  
+  3 Piece door lock  
+<img src="./ReadMeAssets/Images/Door.3.Piece.png" width="50%">   
+.  
+  Readout PCB Adapter  
+<img src="./ReadMeAssets/Images/Readoout.PCB.Holder.png" width="50%">   
+.  
+ 1 mm gasket traces  
+<img src="./ReadMeAssets/Images/Gasket.Demo.png" width="50%">   
+  
 ---------------
 
    
