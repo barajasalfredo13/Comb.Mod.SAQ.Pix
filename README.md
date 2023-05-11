@@ -42,6 +42,7 @@ img updated: 5/10/2023
 
 Assets :  
   3 Piece door lock  
+  =This will change, I am going to reduce it to 2 pieces.=  
 <img src="./ReadMeAssets/Images/Door.3.Piece.png" width="50%">   
 .  
   Readout PCB Adapter  
