@@ -31,6 +31,8 @@ Geometry:
 <img src="./ReadMeAssets/Images/Pixel.Collection.Board.png" width="50%">   
 img updated: 5/2/2023  
   
+Note :  
+Will likely be removed and instead consisting of 2 PCB Board layers with 1 [Readout PCB Adapter] between glued with Torr Vaccum Epoxy  
 --------------
   
 🟠 - **[Steel Vessel](/2.Fusion360/Vessel):** ./2.Fusion360/Vessel/Smooth.SAQ.Pix.Vessel.5.10.2023    
