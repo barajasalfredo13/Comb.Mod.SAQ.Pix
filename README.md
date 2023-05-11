@@ -35,27 +35,27 @@ Note :
 Will likely be removed and instead consisting of 2 PCB Board layers with 1 [Readout PCB Adapter] between glued with Torr Vaccum Epoxy  
 --------------
   
-🟠 - **[Steel Vessel](/2.Fusion360/Vessel):** ./2.Fusion360/Vessel/Smooth.SAQ.Pix.Vessel.5.10.2023    
-**[🌐 3D Online Viewer](/ReadMeAssets/Files/SAQ.Vessel.stl)**  
+🟠 - **[Steel Vessel](/2.Fusion360/Vessel):** ./2.Fusion360/Vessel/Smooth.SAQ.Pix.Vessel.5.10.2023     
 <img src="./ReadMeAssets/Images/Steel.Vessel.png" width="50%">   
 img updated: 5/10/2023  
 
 Assets :  
   3 Piece door lock  
-  =This will change, I am going to reduce it to 2 pieces.=  
+  This will change, I am going to reduce it to 2 pieces.  
 <img src="./ReadMeAssets/Images/Door.3.Piece.png" width="50%">   
 .  
   Readout PCB Adapter  
-<img src="./ReadMeAssets/Images/Readoout.PCB.Holder.png" width="50%">   
+<img src="./ReadMeAssets/Images/Readout.Adapter.png" width="50%">   
 .  
- 1 mm gasket traces  
-<img src="./ReadMeAssets/Images/Gasket.Demo.png" width="50%">   
+ Image of Ring Cage, ThGEM, and PCB Adapter  
+<img src="./ReadMeAssets/Images/Demo.png" width="50%">   
   
 ---------------
 
    
 ## Planned Development
 
+📝 - Pixel Holder  
 📝 - Dummy Signal Board  
 📝 - 19 Channel SAQ Board  
 📝 - Source Holder  
