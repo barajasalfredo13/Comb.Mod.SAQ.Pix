@@ -36,7 +36,7 @@ The PCB Component of our collection component.
 <img src="./ReadMeAssets/Images/Readout.Top.png" width="50%">  
 <img src="./ReadMeAssets/Images/Readout.Bot.png" width="50%">  
   
-  Combined
+Combined  
 <img src="./ReadMeAssets/Images/Readout.1.png" width="50%">  
 <img src="./ReadMeAssets/Images/Readout.Adapter.png" width="50%">  
   
