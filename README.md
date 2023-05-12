@@ -31,8 +31,8 @@ Geometry:
 Consisting Parts :  
 1.  Non-Metallic
 <img src="./ReadMeAssets/Images/Readout.PCB.png" width="50%">  
-The PCB Component of our collection component.
-2.  Metallic
+The PCB Component of our collection component.  
+2.  Metallic  
 <img src="./ReadMeAssets/Images/Readout.Top.png" width="50%">  
 <img src="./ReadMeAssets/Images/Readout.Bot.png" width="50%">  
   
