@@ -40,8 +40,6 @@ Combined
 <img src="./ReadMeAssets/Images/Readout.1.png" width="50%">  
 <img src="./ReadMeAssets/Images/Readout.Adapter.png" width="50%">  
   
-
-<img src="./ReadMeAssets/Images/Pixel.Collection.Board.png" width="50%">   
 <a href="https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/0906-1-15-20-75-14-11-0/1147049">Recommended Pogo Pins [Digi-Key]</a>  
 img updated: 5/12/2023  
   
