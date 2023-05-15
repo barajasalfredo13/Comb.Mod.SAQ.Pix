@@ -43,8 +43,27 @@ Vessel still needs to be changed for other feedthroughs. Similarly to the door w
 📝 - [19 Channel SAQ Board] or [2-Three Channel, 2-Four Channel, 1-Five Channel]  
 📝 - Source Holder  
 
+---------------  
+  
+### Instrunctions and Testing  
+  
+**[Channel Tester](/1.KiCAD/Channel.Tester/):** /1.KiCAD/Channel.Tester  
+<img src="./ReadMeAssets/Images/Vessel.png" width="50%">   
+  
+::: The Channel Tester has the same dimensions of a pixel board :::  
+1- Insert the Channel Tester board and secure it like a pixel board.  
+2- Send test signals in a labeled slot, record the channel triggered  
+  ex: Slot A receives input, channel 7 is triggered. -> A7  
+3- When each letter has a number assigned, you can begin tests.  
+  
+  
+  
+  
+  
+  
+  
+  
 ---------------
-
 |   Legend       |  Meaning                      |
 |----------------|-------------------------------|
 |📝| This component is in the design and illustration phase            |
