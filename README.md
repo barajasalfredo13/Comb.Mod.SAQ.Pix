@@ -23,16 +23,18 @@ Consisting Parts :
 1-  Non-Metallic
 <img src="./ReadMeAssets/Images/Readout.PCB.png" width="50%">  
 The PCB Component of our collection component.  
+<<<<<<< HEAD
 2-  Metallic
+=======
+2.  Metallic  
+>>>>>>> 8a067f02cfd6382a6f94f6fd7fc556631cd37f62
 <img src="./ReadMeAssets/Images/Readout.Top.png" width="50%">  
 <img src="./ReadMeAssets/Images/Readout.Bot.png" width="50%">  
   
-  Combined
+Combined  
 <img src="./ReadMeAssets/Images/Readout.1.png" width="50%">  
 <img src="./ReadMeAssets/Images/Readout.Adapter.png" width="50%">  
   
-
-<img src="./ReadMeAssets/Images/Pixel.Collection.Board.png" width="50%">   
 <a href="https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/0906-1-15-20-75-14-11-0/1147049">Recommended Pogo Pins [Digi-Key]</a>  
 img updated: 5/15/2023  
   
