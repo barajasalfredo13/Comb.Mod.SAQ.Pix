@@ -2,7 +2,7 @@
 
 ## Overview  
 <img src="./ReadMeAssets/Images/Demo.png" width="50%">  
-This is the current status of the **"new"** SAQ Model build. I have included field cage rings so that if needed, we can export the model to simulation.  
+This is the current status of the "new" SAQ Model build. I have included field cage rings so that if needed, we can export the model to simulation.  
   
 ## Current Assets   
 ⚠️ - **[Pixel Combs](/1.KiCAD/Pixel.Combs):** ./1.KiCAD/Pixel.Combs  
