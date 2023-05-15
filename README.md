@@ -2,7 +2,7 @@
 
 ## Overview  
 <img src="./ReadMeAssets/Images/Demo.png" width="50%">  
-This is the current status of the SAQ Model build. I have included field cage rings so that if needed, we can export the model to simulation.  
+This is the current status of the **"new"** SAQ Model build. I have included field cage rings so that if needed, we can export the model to simulation.  
   
 ## Current Assets   
 ⚠️ - **[Pixel Combs](/1.KiCAD/Pixel.Combs):** ./1.KiCAD/Pixel.Combs  
@@ -13,16 +13,15 @@ Geometry:
 (Inner Radius) : 30 mm  
   
 --------------  
-⚠️ - **[Collection Board](/1.KiCAD/Pixel.Collection.Board):** ./1.KiCAD/Pixel.Collection.Board  
-Consisting Parts :  
-1-  Non-Metallic  
+⚠️ - **[Collection Board](/1.KiCAD/Feed.Through.Adapter/):** ./1.KiCAD/Feed.Through.Adapter
+**1-  Non-Metallic**  
 <img src="./ReadMeAssets/Images/Readout.PCB.png" width="50%">  
 The PCB Component of our collection component.  
-2.  Metallic  
+**2.  Metallic**  
 <img src="./ReadMeAssets/Images/Readout.Top.png" width="50%">  
 <img src="./ReadMeAssets/Images/Readout.Bot.png" width="50%">  
   
-Combined  
+__Combined__  
 Top of readout adapter  
 <img src="./ReadMeAssets/Images/Readout.1.png" width="50%">  
 Bottom of readout adapter  
