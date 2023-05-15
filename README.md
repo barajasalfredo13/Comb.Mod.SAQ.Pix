@@ -47,7 +47,7 @@ Vessel still needs to be changed for other feedthroughs. Similarly to the door w
   
 ### Instrunctions and Testing  
   
-**[Channel Tester](/1.KiCAD/Channel.Tester/):** /1.KiCAD/Channel.Tester  
+🟠- **[Channel Tester](/1.KiCAD/Channel.Tester/):** /1.KiCAD/Channel.Tester  
 <img src="./ReadMeAssets/Images/Channel.Tester.png" width="50%">   
   
 ::: The Channel Tester has the same dimensions of a pixel board :::  
