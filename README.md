@@ -40,7 +40,7 @@ Vessel still needs to be changed for other feedthroughs. Similarly to the door w
 --------------- 
 ## Planned Development
 📝 - Dummy Signal Board  
-📝 - [19 Channel SAQ Board] or [2-Two Channel, 2-Four Channel, 1-Five Channel]  
+📝 - [19 Channel SAQ Board] or [2-Three Channel, 2-Four Channel, 1-Five Channel]  
 📝 - Source Holder  
 
 ---------------
