@@ -13,7 +13,7 @@ Geometry:
 (Inner Radius) : 30 mm  
   
 --------------  
-⚠️ - **[Collection Board](/1.KiCAD/Feed.Through.Adapter/):** ./1.KiCAD/Feed.Through.Adapter
+⚠️ - **[Collection Board](/1.KiCAD/Feed.Through.Adapter/):** ./1.KiCAD/Feed.Through.Adapter  
 **1-  Non-Metallic**  
 <img src="./ReadMeAssets/Images/Readout.PCB.png" width="50%">  
 The PCB Component of our collection component.  
@@ -36,6 +36,7 @@ img updated: 5/15/2023
 img updated: 5/15/2023  
   
 Vessel still needs to be changed for other feedthroughs. Similarly to the door will be a multiple outlet one on the side, and some at the top of the vessel.  
+  
 --------------- 
 ## Planned Development
 📝 - Dummy Signal Board  
