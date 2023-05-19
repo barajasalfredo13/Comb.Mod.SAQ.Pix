@@ -5,7 +5,7 @@
 This is the current status of the "new" SAQ Model build. I have included field cage rings so that if needed, we can export the model to simulation.  
   
 ## Current Assets   
-⚠️ - **[Pixel Combs](/1.KiCAD/Pixel.Combs):** ./1.KiCAD/Pixel.Combs  
+🟡 - **[Pixel Combs](/1.KiCAD/Pixel.Combs):** ./1.KiCAD/Pixel.Combs  
 <img src="./ReadMeAssets/Images/Pixel.Combs.png" width="50%">   
 img updated: 5/12/2023   
 Geometry:  
@@ -13,7 +13,7 @@ Geometry:
 (Inner Radius) : 30 mm  
   
 --------------  
-⚠️ - **[Collection Board](/1.KiCAD/Feed.Through.Adapter/):** ./1.KiCAD/Feed.Through.Adapter  
+🟡 - **[Collection Board](/1.KiCAD/Feed.Through.Adapter/):** ./1.KiCAD/Feed.Through.Adapter  
 **1-  Non-Metallic**  
 <img src="./ReadMeAssets/Images/Readout.PCB.png" width="50%">  
 The PCB Component of our collection component.  
@@ -46,7 +46,7 @@ Vessel still needs to be changed for other feedthroughs. Similarly to the door w
   
 ### Instrunctions and Testing  
   
-🟠- **[Channel Tester](/1.KiCAD/Channel.Tester/):** /1.KiCAD/Channel.Tester  
+🟡- **[Channel Tester](/1.KiCAD/Channel.Tester/):** /1.KiCAD/Channel.Tester  
 <img src="./ReadMeAssets/Images/Channel.Tester.png" width="50%">   
   
 ::: The Channel Tester has the same dimensions of a pixel board :::  
