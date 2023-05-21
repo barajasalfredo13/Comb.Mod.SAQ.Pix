@@ -5,7 +5,7 @@ In the following weeks I am planning on separating each interchangable component
 ::: Updates :::
 - Designed, Modeled, and created Drawings for Pixel Tiles.  
 - Labeled Pixel Tiles with Letter Codes so that they match the Stencil Codes.  
-- Added Geometric and Material Informatioon to the readme.  
+- Added Geometric and Material Information to the readme.  
 - ReOrganized Files so that they are separated by function type.  
 - Minor Design Fixes  
 
