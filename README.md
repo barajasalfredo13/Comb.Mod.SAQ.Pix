@@ -100,9 +100,12 @@ Vessel will be modified so that Standardized Feedthroughs can be used.
   Material ::: 316L Stainless Steel   
   Shadow Mask Thickness ::: [ 0.015 in // 0.381 mm ]  
     
-<img src="./z.ReadMeAssets/Images/Shadow.Mask.Kit.png" width="50%"> 
+<img src="./z.ReadMeAssets/Images/Shadow.Mask.Kit.png" width="50%">  
 316L Stainless Steel was chosen due to its low outgassing and resistiveness to corrosion  
   
+:: [Drawings](/Shadow.Mask.Kit/Drawings/) ::  
+<img src="./z.ReadMeAssets/Images/Mask.Drawings.Demo.png" width="50%">  
+
 ----------------  
 ## Optional Testing Equipment  
   
