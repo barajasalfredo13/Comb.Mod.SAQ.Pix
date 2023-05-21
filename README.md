@@ -77,7 +77,7 @@ Note: Each PCB should have text on which side faces the metal, additionally they
 4- Align the PCB with the wires and secure firmly to the metal adapter.  
 5- Flip the device over and pour epoxy to the top.  
 6- While epoxy is still wet, align the wires and place the second PCB.  
-7. Secure tightly and allow to dry for the recommended time.   
+7- Secure tightly and allow to dry for the recommended time.   
  
   
 --------------  
