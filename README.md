@@ -14,16 +14,17 @@ This is the current status of the "new" SAQ Model build. I have included field c
   
 ## Table of Contents  
 - [Current Assets]
-  - [Pixel Combs]
-  - [Readout Feedthrough]
-  - [Steel Vessel]
+  - 🟡[Pixel Combs]
+  - 🟡[Readout Feedthrough]
+  - 🟠[Steel Vessel]
 - [Planned Development]
-  - [19 Channel SAQ Board] or [2-Three Channel, 2-Four Channel, 1-Five Channel]
-  - [Source Hoolder]
+  - 📝[19 Channel SAQ Board] or [2-Three Channel, 2-Four Channel, 1-Five Channel]
+  - 📝[Source Hoolder] 
 - [Research and Development Tools]
-  - [Pixel Shadow Masks]
+  - 🟠[Pixel Shadow Masks] ✨
 - [Optional Testing Equipment]
-  - [Channel Tester]
+  - 🟡[Channel Tester] ✨
+- [Icon Legend]
   
   
 ## Current Assets   
@@ -115,7 +116,8 @@ Note: The Channel Tester has the same dimensions of a pixel board
 3- When each letter has a number assigned, you can begin tests.  
   
   
----------------
+---------------  
+## Icon Legend  
 |   Legend       |  Meaning                      |
 |----------------|-------------------------------|
 |✨| Recently Added / New Items            |
