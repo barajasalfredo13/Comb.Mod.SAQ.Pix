@@ -52,11 +52,11 @@ Bottom of readout adapter
 img updated: 5/15/2023  
   
 --------------  
-🟠 - **[Steel Vessel](/2.Fusion360/Vessel):** ./2.Fusion360/Vessel/Smooth.SAQ.Pix.Vessel.5.15.2023     
+🟠 - **[Steel Vessel](/Vessel.Full/Fusion360/):** ./2.Fusion360/Vessel/Smooth.SAQ.Pix.Vessel.5.15.2023     
 <img src="./z.ReadMeAssets/Images/Vessel.png" width="50%">   
 img updated: 5/15/2023  
   
-Vessel still needs to be changed for other feedthroughs. Similarly to the door will be a multiple outlet one on the side, and some at the top of the vessel.  
+Vessel will be modified so that Standardized Feedthroughs can be used.   
   
 --------------- 
 ## Planned Development
@@ -66,18 +66,18 @@ Vessel still needs to be changed for other feedthroughs. Similarly to the door w
   
 ---------------  
 ### Research and Development Tools ###
-✨🟠 - **[Pixel Shadow Masks](/2.Fusion360/Shadow.Masks) ./2.Fusion360/Shadow.Masks
+✨🟠 - **[Pixel Shadow Masks](/Shadow.Mask.Kit/Fusion360/) ./Shadow.Mask.Kit/Fusion360/
   
   Material ::: 316L Stainless Steel 
   Shadow Mask Thickness ::: [ 0.015 in // 0.381 mm ]
   
-<img src="./z.ReadMeAssets/Images/Shadow.Mask.png" width="50%"> 
-316L Stainless Steel was chosen due to its low carbon content and resistiveness to corrosion  
+<img src="./z.ReadMeAssets/Images/Shadow.Mask.Kit.png" width="50%"> 
+316L Stainless Steel was chosen due to its low outgassing and resistiveness to corrosion  
   
 ----------------  
 ### Instrunctions and Testing  
   
-✨🟡- **[Channel Tester](/1.KiCAD/Channel.Tester/):** /1.KiCAD/Channel.Tester  
+✨🟡- **[Channel Tester](/Channel.Tester/KiCAD/):** ./Channel.Tester/KiCAD
 <img src="./z.ReadMeAssets/Images/Channel.Tester.png" width="50%">   
   
 ::: The Channel Tester has the same dimensions of a pixel board :::  
