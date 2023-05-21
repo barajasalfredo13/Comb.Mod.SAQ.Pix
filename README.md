@@ -29,10 +29,11 @@ This is the current status of the "new" SAQ Model build. I have included field c
   
 ## Current Assets   
 ### 🟡 - **[Pixel Combs](/Modular.Pixel.Combs/):** ./Modular.Pixel.Combs/  
-<img src="./z.ReadMeAssets/Images/Pixel.Combs.png" width="50%">     
+<img src="./z.ReadMeAssets/Images/Pixel.Combs.png" width="50%">  
+  
 :: Base Geometry and Dimensions ::  
 PCB.Dimensions : 78 x 78 mm  
-PCB.Thickness : 1.6 mm
+PCB.Thickness : 1.6 mm  
 (Outer Radius) : 39 mm  
 (Inner Radius) : 30 mm  
 Pixel Pitch : 10 mm  
@@ -53,7 +54,7 @@ Note: Currently Pixel Combs have Sharp edges on the hexagons. This will change t
 <img src="./z.ReadMeAssets/Images/Readout.PCB.png" width="50%">  
 :: Base Geometry and Dimensions ::  
 PCB.Dimensions : [A] 80 x 80 mm ::: [B] 68 x 68 mm  
-PCB.Thickness : [A] 1.6 mm ::: [B] 1.6 mm  
+PCB.Thickness : [A] 1.6 mm  ::: [B] 1.6 mm  
 
 **2.  Metallic Component**  
 <img src="./z.ReadMeAssets/Images/Readout.Top.png" width="50%">  
@@ -120,7 +121,7 @@ Note: The Channel Tester has the same dimensions of a pixel board
 ## Icon Legend  
 |   Legend       |  Meaning                      |
 |----------------|-------------------------------|
-|✨| Recently Added / New Items            |
+|✨| Recently Updated / New Items            |
 |📝| This component is in the design and illustration phase            |
 |🟠| This component is under development            |
 |⚠️| This component requires feedback before further development |
