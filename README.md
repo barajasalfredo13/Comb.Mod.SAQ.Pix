@@ -75,7 +75,7 @@ Vessel will be modified so that Standardized Feedthroughs can be used.
 316L Stainless Steel was chosen due to its low outgassing and resistiveness to corrosion  
   
 ----------------  
-### Instrunctions and Testing  
+### Instructions and Testing  
   
 ✨🟡- **[Channel Tester](/Channel.Tester/KiCAD/):** ./Channel.Tester/KiCAD  
 <img src="./z.ReadMeAssets/Images/Channel.Tester.png" width="50%">   
