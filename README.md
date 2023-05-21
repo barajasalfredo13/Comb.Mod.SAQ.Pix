@@ -66,11 +66,11 @@ Vessel will be modified so that Standardized Feedthroughs can be used.
   
 ---------------  
 ### Research and Development Tools ###
-✨🟠 - **[Pixel Shadow Masks](/Shadow.Mask.Kit/Fusion360/) ./Shadow.Mask.Kit/Fusion360/
-  
-  Material ::: 316L Stainless Steel 
-  Shadow Mask Thickness ::: [ 0.015 in // 0.381 mm ]
-  
+✨🟠 - **[Pixel Shadow Masks](/Shadow.Mask.Kit/Fusion360/) ./Shadow.Mask.Kit/Fusion360/  
+    
+  Material ::: 316L Stainless Steel   
+  Shadow Mask Thickness ::: [ 0.015 in // 0.381 mm ]  
+    
 <img src="./z.ReadMeAssets/Images/Shadow.Mask.Kit.png" width="50%"> 
 316L Stainless Steel was chosen due to its low outgassing and resistiveness to corrosion  
   
