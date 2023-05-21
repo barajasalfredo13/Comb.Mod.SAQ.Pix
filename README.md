@@ -77,7 +77,7 @@ Vessel will be modified so that Standardized Feedthroughs can be used.
 ----------------  
 ### Instrunctions and Testing  
   
-✨🟡- **[Channel Tester](/Channel.Tester/KiCAD/):** ./Channel.Tester/KiCAD
+✨🟡- **[Channel Tester](/Channel.Tester/KiCAD/):** ./Channel.Tester/KiCAD  
 <img src="./z.ReadMeAssets/Images/Channel.Tester.png" width="50%">   
   
 ::: The Channel Tester has the same dimensions of a pixel board :::  
