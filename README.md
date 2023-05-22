@@ -15,7 +15,7 @@ This is a demo photo of the current system design.
   
 ## Table of Contents  
 - [Current Assets]
-  - 🟢[Pixel Combs]
+  - 🟢[Pixel Combs] ✨
   - 🟠[Readout Feedthrough]
   - 🟠[Steel Vessel]
 - [Planned Development]
