@@ -20,7 +20,7 @@ This is a demo photo of the current system design.
   - 🟠[Steel Vessel]
 - [Planned Development]
   - 📝[19 Channel SAQ Board] or [2-Three Channel, 2-Four Channel, 1-Five Channel]
-  - 📝[Source Hoolder] 
+  - 📝[Source Holder] 
 - [Research and Development Tools]
   - 🟠[Pixel Shadow Masks] ✨
 - [Optional Testing Equipment]
