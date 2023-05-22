@@ -1,21 +1,22 @@
 # Comb.Mod.SAQ.Pix
 ::: Important Notes :::  
-In the following weeks I am planning on separating each interchangable component. Since some of the designs are final. When I generate the files, all the raw files and production files will be placed in one of two folders.  
+In the following weeks I am planning on separating each interchangable component since some of the designs are final. When I generate the files, all the raw files and production files will be placed in one of two folders.  
 
 ✨::: Updates :::✨
-- Designed, Modeled, and created Drawings for Pixel Tiles.  
-- Labeled Pixel Tiles with Letter Codes so that they match the Stencil Codes.  
-- Added Geometric and Material Information to the readme.  
-- ReOrganized Files so that they are separated by function type.  
+- Designed, Modeled, and created Drawings for Pixel Shadow Masks.  
+- Smoothed pixels so that they match shadow masks  
+- Labeled Pixel Tiles with Letter Codes so that they match the Stencil Letters.  
+- Added more information on geometries and descriptions.  
+- Reorganized files by function type.  
 - Minor Design Fixes  
  
 <img src="./z.ReadMeAssets/Images/Demo.png" width="50%">  
-This is the current status of the "new" SAQ Model build. I have included field cage rings so that if needed, we can export the model to simulation.  
+This is a demo photo of the current system design.    
   
 ## Table of Contents  
 - [Current Assets]
-  - 🟡[Pixel Combs]
-  - 🟡[Readout Feedthrough]
+  - 🟢[Pixel Combs]
+  - 🟠[Readout Feedthrough]
   - 🟠[Steel Vessel]
 - [Planned Development]
   - 📝[19 Channel SAQ Board] or [2-Three Channel, 2-Four Channel, 1-Five Channel]
@@ -23,12 +24,12 @@ This is the current status of the "new" SAQ Model build. I have included field c
 - [Research and Development Tools]
   - 🟠[Pixel Shadow Masks] ✨
 - [Optional Testing Equipment]
-  - 🟡[Channel Tester] ✨
+  - 🟢[Channel Tester] ✨
 - [Icon Legend]
   
   
 ## Current Assets   
-### 🟡 - **[Pixel Combs](/Modular.Pixel.Combs/):** ./Modular.Pixel.Combs/  
+### 🟢 - **[Pixel Combs](/Modular.Pixel.Combs/):** ./Modular.Pixel.Combs/  
 <img src="./z.ReadMeAssets/Images/Pixel.Combs.png" width="50%">  
   
 :: Base Geometry and Dimensions ::  
@@ -38,25 +39,26 @@ PCB.Thickness : 1.6 mm
 (Inner Radius) : 30 mm  
 Pixel Pitch : 10 mm  
   
-Descriptions :::  
+<img src="./z.ReadMeAssets/Images/Pixel.Variants.png" width="50%">  
+  
+Pixel Description :::  
 A- Solid Single Conductive Plane Hexagon  
 B- Solid Single Conductive Plane Hexagon with Single Biased Hexagon Ring  
 C- Solid Single Circular Plane with Single Biased Hexagon Ring  
   
 ::: Intended Use :::  
 Pixel Comb planes were designed to be used as experimental collection planes for specific interactions. With use of shadow masks, we can deposite materials to experimentally test. measure and characterize novel materials.  
-  
-Note: Currently Pixel Combs have Sharp edges on the hexagons. This will change to Soft Edges so that the Shadow Masks have a perfect fit.  
-  
+   
+   
 --------------  
-### 🟡 - **[Readout Feedthrough](/Readout.Feed.Through.Adapter/):** ./Readout.Feed.Through.Adapter/  
-**1-  PCB Component**  
+### 🟠 - **[Readout Feedthrough](/Readout.Feed.Through.Adapter/):** ./Readout.Feed.Through.Adapter/  
+**1- 🟢 PCB Component**  
 <img src="./z.ReadMeAssets/Images/Readout.PCB.png" width="50%">  
 :: Base Geometry and Dimensions ::  
 PCB.Dimensions : [A] 80 x 80 mm ::: [B] 68 x 68 mm  
 PCB.Thickness : [A] 1.6 mm  ::: [B] 1.6 mm  
 
-**2.  Metallic Component**  
+**2. 🟠 Metallic Component**  
 <img src="./z.ReadMeAssets/Images/Readout.Top.png" width="50%">  
 <img src="./z.ReadMeAssets/Images/Readout.Bot.png" width="50%">  
   
@@ -129,5 +131,5 @@ Note: The Channel Tester has the same dimensions of a pixel board
 |🟠| This component is under development            |
 |⚠️| This component requires feedback before further development |
 |🟡| This component files are under final review |
-|🟢| This component is ready for production |
+|🟢| This component's design is final |
 
