@@ -17,13 +17,13 @@ I am remaking the models to more organized individual projects. That way if othe
 - Drawing of Readout Adapter and [Readout Feedthrough] become complete  
   
   
-<img src="./z.ReadMeAssets/Images/Demo.png" width="50%">  
+<img src="./z.ReadMeAssets/Images/Demo.png" width="70%">  
 This is a demo photo of the current system design.    
   
 ## Table of Contents  
 - [Current Assets]
   - 🟢[Pixel Combs] ✨
-  - 🟠[Readout Feedthrough]
+  - 🟠[Readout Feedthrough] ✨
   - 🟠[Steel Vessel]
 - [Planned Development]
   - 📝[19 Channel SAQ Board] or [2-Three Channel, 2-Four Channel, 1-Five Channel]
@@ -37,7 +37,7 @@ This is a demo photo of the current system design.
   
 ## Current Assets   
 ### 🟢 - **[Pixel Combs](/Modular.Pixel.Combs/):** ./Modular.Pixel.Combs/  
-<img src="./z.ReadMeAssets/Images/Pixel.Combs.png" width="50%">  
+<img src="./z.ReadMeAssets/Images/Pixel.Combs.png" width="70%">  
   
 :: Base Geometry and Dimensions ::  
 PCB.Dimensions : 78 x 78 mm  
@@ -46,7 +46,7 @@ PCB.Thickness : 1.6 mm
 (Inner Radius) : 30 mm  
 Pixel Pitch : 10 mm  
   
-<img src="./z.ReadMeAssets/Images/Pixel.Variants.png" width="50%">  
+<img src="./z.ReadMeAssets/Images/Pixel.Variants.png" width="70%">  
   
 Pixel Description :::  
 A- Solid Single Conductive Plane Hexagon  
@@ -58,11 +58,11 @@ Pixel Comb planes were designed to be used as experimental collection planes for
    
    
 --------------  
-### 🟠 - **[Readout Feedthrough](/Readout.Feed.Through.Adapter/):** ./Readout.Feed.Through.Adapter/  
-<img src="./z.ReadMeAssets/Images/Readout.Adapter.png" width="50%">  
+### ✨🟠 - **[Readout Feedthrough](/Readout.Feed.Through.Adapter/):** ./Readout.Feed.Through.Adapter/  
+<img src="./z.ReadMeAssets/Images/Readout.Adapter.png" width="70%">  
   
 **Description of the PCB Component**  
-<img src="./z.ReadMeAssets/Images/Readout.PCB.png" width="50%">  
+<img src="./z.ReadMeAssets/Images/Readout.PCB.png" width="70%">  
 :: Base Geometry and Dimensions ::  
 PCB.Dimensions : [A] 80 x 80 mm ::: [B] 68 x 68 mm  
 PCB.Thickness : [A] 1.6 mm  ::: [B] 1.6 mm  
@@ -83,7 +83,7 @@ Note: Each PCB should have text on which side faces the metal, additionally they
   
 --------------  
 ### 🟠 - **[Steel Vessel](/Vessel.Full/Fusion360/):** ./2.Fusion360/Vessel/Smooth.SAQ.Pix.Vessel.5.15.2023     
-<img src="./z.ReadMeAssets/Images/Vessel.png" width="50%">   
+<img src="./z.ReadMeAssets/Images/Vessel.png" width="70%">   
 img updated: 5/15/2023  
   
 Vessel will be modified so that Standardized Feedthroughs can be used.   
@@ -101,17 +101,17 @@ Vessel will be modified so that Standardized Feedthroughs can be used.
   Material ::: 316L Stainless Steel   
   Shadow Mask Thickness ::: [ 0.015 in // 0.381 mm ]  
     
-<img src="./z.ReadMeAssets/Images/Shadow.Mask.Kit.png" width="50%">  
+<img src="./z.ReadMeAssets/Images/Shadow.Mask.Kit.png" width="70%">  
 316L Stainless Steel was chosen due to its low outgassing and resistiveness to corrosion  
   
 :: [Drawings](/Shadow.Mask.Kit/Drawings/) ::  
-<img src="./z.ReadMeAssets/Images/Mask.Drawings.Demo.png" width="50%">  
+<img src="./z.ReadMeAssets/Images/Mask.Drawings.Demo.png" width="70%">  
 
 ----------------  
 ## Optional Testing Equipment  
   
 ### ✨🟡- **[Channel Tester](/Channel.Tester/KiCAD/):** ./Channel.Tester/KiCAD  
-<img src="./z.ReadMeAssets/Images/Channel.Tester.png" width="50%">   
+<img src="./z.ReadMeAssets/Images/Channel.Tester.png" width="70%">   
   
 #### How to Use
 Note: The Channel Tester has the same dimensions of a pixel board  
