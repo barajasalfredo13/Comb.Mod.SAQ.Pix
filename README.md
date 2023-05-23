@@ -1,15 +1,22 @@
 # Comb.Mod.SAQ.Pix
 ::: Important Notes :::  
-In the following weeks I am planning on separating each interchangable component since some of the designs are final. When I generate the files, all the raw files and production files will be placed in one of two folders.  
+I am remaking the models to more organized individual projects. That way if others other than the creator need to be modify it, it is easy to do so.  
+
 
 ✨::: Updates :::✨
+- Individual Feedthrough Fusion360 was generated  
 - Designed, Modeled, and created Drawings for Pixel Shadow Masks.  
 - Smoothed pixels so that they match shadow masks  
 - Labeled Pixel Tiles with Letter Codes so that they match the Stencil Letters.  
 - Added more information on geometries and descriptions.  
 - Reorganized files by function type.  
 - Minor Design Fixes  
- 
+  
+♨️:::Extra Info:::♨️  
+- Drawing of Stencil Holder and [Pixel Shadow Masks] becomes complete  
+- Drawing of Readout Adapter and [Readout Feedthrough] become complete  
+  
+  
 <img src="./z.ReadMeAssets/Images/Demo.png" width="50%">  
 This is a demo photo of the current system design.    
   
@@ -52,24 +59,16 @@ Pixel Comb planes were designed to be used as experimental collection planes for
    
 --------------  
 ### 🟠 - **[Readout Feedthrough](/Readout.Feed.Through.Adapter/):** ./Readout.Feed.Through.Adapter/  
-**1- 🟢 PCB Component**  
+<img src="./z.ReadMeAssets/Images/Readout.Adapter.png" width="50%">  
+  
+**Description of the PCB Component**  
 <img src="./z.ReadMeAssets/Images/Readout.PCB.png" width="50%">  
 :: Base Geometry and Dimensions ::  
 PCB.Dimensions : [A] 80 x 80 mm ::: [B] 68 x 68 mm  
 PCB.Thickness : [A] 1.6 mm  ::: [B] 1.6 mm  
-
-**2. 🟠 Metallic Component**  
-<img src="./z.ReadMeAssets/Images/Readout.Top.png" width="50%">  
-<img src="./z.ReadMeAssets/Images/Readout.Bot.png" width="50%">  
   
-__Combined__  
-Top of readout adapter  
-<img src="./z.ReadMeAssets/Images/Readout.1.png" width="50%">  
-Bottom of readout adapter  
-<img src="./z.ReadMeAssets/Images/Readout.Adapter.png" width="50%">  
-
+  
 <a href="https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/0906-1-15-20-75-14-11-0/1147049">Pogo Pins used for design [Digi-Key]</a>  
-img updated: 5/15/2023  
   
 #### ::: Assembly Instructions :::  [Pictures and Diagrams Coming soon]  
 Note: Each PCB should have text on which side faces the metal, additionally they are keyed.  
