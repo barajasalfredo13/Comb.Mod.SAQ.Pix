@@ -110,9 +110,11 @@ Vessel will be modified so that Standardized Feedthroughs can be used.
 ----------------  
 ## Optional Testing Equipment  
   
-### ✨🟡- **[Channel Tester](/Channel.Tester/KiCAD/):** ./Channel.Tester/KiCAD  
+### ✨🟢- **[Channel Tester](/Channel.Tester/KiCAD/):** ./Channel.Tester/KiCAD  
 <img src="./z.ReadMeAssets/Images/Channel.Tester.png" width="70%">   
-  
+:: Base Geometry and Dimensions ::  
+PCB.Dimensions : 78 x 78 mm  
+
 #### How to Use
 Note: The Channel Tester has the same dimensions of a pixel board  
 1- Insert the Channel Tester board and secure it like a pixel board.  
