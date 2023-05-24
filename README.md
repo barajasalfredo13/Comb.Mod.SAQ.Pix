@@ -4,7 +4,7 @@ I am remaking the models to more organized individual projects. That way if othe
 
 
 ✨::: Updates :::✨
-- Individual Feedthrough Fusion360 was generated  
+- Feedthrough Adapter Fusion360 File was generated  
 - Designed, Modeled, and created Drawings for Pixel Shadow Masks.  
 - Smoothed pixels so that they match shadow masks  
 - Labeled Pixel Tiles with Letter Codes so that they match the Stencil Letters.  
