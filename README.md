@@ -22,16 +22,16 @@ This is a demo photo of the current system design.
   
 ## Table of Contents  
 - [Current Assets]
-  - 🟢[Pixel Combs] ✨
-  - 🟠[Readout Feedthrough] ✨
+  - 🟢[Pixel Combs]
+  - 🟠[Readout Feedthrough]
   - 🟠[Steel Vessel]
 - [Planned Development]
   - 📝[19 Channel SAQ Board] or [2-Three Channel, 2-Four Channel, 1-Five Channel]
   - 📝[Source Holder] 
 - [Research and Development Tools]
-  - 🟠[Pixel Shadow Masks] ✨
+  - 🟠[Pixel Shadow Masks]
 - [Optional Testing Equipment]
-  - 🟢[Channel Tester] ✨
+  - 🟢[Channel Tester]
 - [Icon Legend]
   
   
@@ -58,7 +58,7 @@ Pixel Comb planes were designed to be used as experimental collection planes for
    
    
 --------------  
-### ✨🟠 - **[Readout Feedthrough](/Readout.Feed.Through.Adapter/):** ./Readout.Feed.Through.Adapter/  
+### 🟠 - **[Readout Feedthrough](/Readout.Feed.Through.Adapter/):** ./Readout.Feed.Through.Adapter/  
 <img src="./z.ReadMeAssets/Images/Readout.Adapter.png" width="70%">  
   
 **Description of the PCB Component**  
@@ -96,7 +96,7 @@ Vessel will be modified so that Standardized Feedthroughs can be used.
   
 ---------------  
 ## Research and Development Tools  
-### ✨🟠 - **[Pixel Shadow Masks](/Shadow.Mask.Kit/Fusion360/)** ./Shadow.Mask.Kit/Fusion360/  
+### 🟠 - **[Pixel Shadow Masks](/Shadow.Mask.Kit/Fusion360/)** ./Shadow.Mask.Kit/Fusion360/  
     
   Material ::: 316L Stainless Steel   
   Shadow Mask Thickness ::: [ 0.015 in // 0.381 mm ]  
@@ -110,7 +110,7 @@ Vessel will be modified so that Standardized Feedthroughs can be used.
 ----------------  
 ## Optional Testing Equipment  
   
-### ✨🟢- **[Channel Tester](/Channel.Tester/KiCAD/):** ./Channel.Tester/KiCAD  
+### 🟢- **[Channel Tester](/Channel.Tester/KiCAD/):** ./Channel.Tester/KiCAD  
 <img src="./z.ReadMeAssets/Images/Channel.Tester.png" width="70%">   
 :: Base Geometry and Dimensions ::  
 PCB.Dimensions : 78 x 78 mm  
