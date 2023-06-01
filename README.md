@@ -5,12 +5,12 @@ I am remaking the models to more organized individual projects. That way if othe
   
 ✨::: Updates :::✨  
 ::: Current :::  
-- Updated Stencil Holder Drawing  
-- Ground Section  
-- Sites like "https://www.mcmaster.com/" and "https://www.lesker.com/" have STEP files for feedthroughs  
- - If you have a list of feedthroughs you would like to include, a link or part# should be enough for me to design around  
- - If no feedthrough is selected I will attempt to incorporate two feedthrough of the same type for optics, gas, and electrical usage.  
-- Desired bolts and thread specification is needed for designing the vessel  
+- [Updated Stencil Holder Drawing]  
+- [Ground Section]  
+- [Sites like "https://www.mcmaster.com/" and "https://www.lesker.com/" have STEP files for feedthroughs]  
+ - [If you have a list of feedthroughs you would like to include, a link or part# should be enough for me to design around]  
+ - [If no feedthrough is selected I will attempt to incorporate two feedthrough of the same type for optics, gas, and electrical usage.]  
+- [Desired bolts and thread specification is needed for designing the vessel]  
   
   
 
