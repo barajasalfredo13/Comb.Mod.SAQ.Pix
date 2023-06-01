@@ -115,11 +115,13 @@ Vessel will be modified so that Standardized Feedthroughs can be used.
 316L Stainless Steel was chosen due to its low outgassing and resistiveness to corrosion  
   
 :: [Drawings](/Shadow.Mask.Kit/Drawings/) ::  
-<img src="./z.ReadMeAssets/Images/Mask.Drawings.Demo.png" width="70%">  
 Demo of Stencil Designs  
+<img src="./z.ReadMeAssets/Images/Mask.Drawings.Demo.png" width="70%">  
   
+  
+✨ Stencil Holder Drawing    
 <img src="./z.ReadMeAssets/Images/Holder.Drawing.png" width="70%">  
-✨ Stencil Holder Drawing  
+  
   
 ⚠️ Ground Stencil is not Made ⚠️  
 A stencil for the ground section of these boards cannot be made due to the geometry.  
