@@ -1,10 +1,21 @@
 # Comb.Mod.SAQ.Pix
 ::: Important Notes :::  
 I am remaking the models to more organized individual projects. That way if others other than the creator need to be modify it, it is easy to do so.  
+  
+  
+✨::: Updates :::✨  
+::: Current :::  
+- Updated Stencil Holder Drawing  
+- Ground Section  
+- Sites like "https://www.mcmaster.com/" and "https://www.lesker.com/" have STEP files for feedthroughs  
+ - If you have a list of feedthroughs you would like to include, a link or part# should be enough for me to design around  
+ - If no feedthrough is selected I will attempt to incorporate two feedthrough of the same type for optics, gas, and electrical usage.  
+- Desired bolts and thread specification is needed for designing the vessel  
+  
+  
 
-
-✨::: Updates :::✨
-- Feedthrough Adapter Fusion360 File was generated  
+::: Past :::  
+- Individual Feedthrough Fusion360 was generated  
 - Designed, Modeled, and created Drawings for Pixel Shadow Masks.  
 - Smoothed pixels so that they match shadow masks  
 - Labeled Pixel Tiles with Letter Codes so that they match the Stencil Letters.  
@@ -13,7 +24,6 @@ I am remaking the models to more organized individual projects. That way if othe
 - Minor Design Fixes  
   
 ♨️:::Extra Info:::♨️  
-- Drawing of Stencil Holder and [Pixel Shadow Masks] becomes complete  
 - Drawing of Readout Adapter and [Readout Feedthrough] become complete  
   
   
@@ -22,16 +32,16 @@ This is a demo photo of the current system design.
   
 ## Table of Contents  
 - [Current Assets]
-  - 🟢[Pixel Combs]
-  - 🟠[Readout Feedthrough]
-  - 🟠[Steel Vessel]
-- [Planned Development]
-  - 📝[19 Channel SAQ Board] or [2-Three Channel, 2-Four Channel, 1-Five Channel]
+  - 🟢[Pixel Combs] ✨  
+  - 🟡[Readout Feedthrough] ✨  
+  - 🟠[Steel Vessel]  
+- [Planned Development]  
+  - 📝[19 Channel SAQ Board] or [2-Three Channel, 2-Four Channel, 1-Five Channel]  
   - 📝[Source Holder] 
 - [Research and Development Tools]
-  - 🟠[Pixel Shadow Masks]
+  - 🟠[Pixel Shadow Masks] ✨
 - [Optional Testing Equipment]
-  - 🟢[Channel Tester]
+  - 🟢[Channel Tester] ✨
 - [Icon Legend]
   
   
@@ -58,7 +68,7 @@ Pixel Comb planes were designed to be used as experimental collection planes for
    
    
 --------------  
-### 🟠 - **[Readout Feedthrough](/Readout.Feed.Through.Adapter/):** ./Readout.Feed.Through.Adapter/  
+### ✨🟡 - **[Readout Feedthrough](/Readout.Feed.Through.Adapter/):** ./Readout.Feed.Through.Adapter/  
 <img src="./z.ReadMeAssets/Images/Readout.Adapter.png" width="70%">  
   
 **Description of the PCB Component**  
@@ -96,7 +106,7 @@ Vessel will be modified so that Standardized Feedthroughs can be used.
   
 ---------------  
 ## Research and Development Tools  
-### 🟠 - **[Pixel Shadow Masks](/Shadow.Mask.Kit/Fusion360/)** ./Shadow.Mask.Kit/Fusion360/  
+### ✨🟢- **[Pixel Shadow Masks](/Shadow.Mask.Kit/Fusion360/)** ./Shadow.Mask.Kit/Fusion360/  
     
   Material ::: 316L Stainless Steel   
   Shadow Mask Thickness ::: [ 0.015 in // 0.381 mm ]  
@@ -106,7 +116,14 @@ Vessel will be modified so that Standardized Feedthroughs can be used.
   
 :: [Drawings](/Shadow.Mask.Kit/Drawings/) ::  
 <img src="./z.ReadMeAssets/Images/Mask.Drawings.Demo.png" width="70%">  
-
+Demo of Stencil Designs  
+  
+<img src="./z.ReadMeAssets/Images/Holder.Drawing.png" width="70%">  
+✨ Stencil Holder Drawing  
+  
+⚠️ Ground Stencil is not Made ⚠️  
+A stencil for the ground section of these boards cannot be made due to the geometry.  
+  
 ----------------  
 ## Optional Testing Equipment  
   
