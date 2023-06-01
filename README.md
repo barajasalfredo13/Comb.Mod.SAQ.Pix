@@ -5,12 +5,12 @@ I am remaking the models to more organized individual projects. That way if othe
   
 ✨::: Updates :::✨  
 ::: Current :::  
-- [Updated Stencil Holder Drawing]  
-- [Ground Section]  
-- [Sites like "https://www.mcmaster.com/" and "https://www.lesker.com/" have STEP files for feedthroughs]  
-   - [If you have a list of feedthroughs you would like to include, a link or part# should be enough for me to design around]  
-   - [If no feedthrough is selected I will attempt to incorporate two feedthrough of the same type for optics, gas, and electrical usage.]  
-- [Desired bolts and thread specification is needed for designing the vessel]  
+- Updated Shadow Mask Holder Drawing  
+- Ground Section  
+- Sites like "https://www.mcmaster.com/" and "https://www.lesker.com/" have STEP files for feedthroughs  
+   - If you have a list of feedthroughs you would like to include, a link or part# should be enough for me to design around  
+   - If no feedthrough is selected I will attempt to incorporate two feedthrough of the same type for optics, gas, and electrical usage.  
+- Desired bolts and thread specification is needed for designing the vessel  
   
   
 
@@ -115,16 +115,16 @@ Vessel will be modified so that Standardized Feedthroughs can be used.
 316L Stainless Steel was chosen due to its low outgassing and resistiveness to corrosion  
   
 :: [Drawings](/Shadow.Mask.Kit/Drawings/) ::  
-Demo of Stencil Designs  
+Demo of Shadow Mask Designs  
 <img src="./z.ReadMeAssets/Images/Mask.Drawings.Demo.png" width="70%">  
   
   
-✨ Stencil Holder Drawing    
+✨ Shadow Mask Holder Drawing    
 <img src="./z.ReadMeAssets/Images/Holder.Drawing.png" width="70%">  
   
   
 ⚠️ Ground Stencil is not Made ⚠️  
-A stencil for the ground section of these boards cannot be made due to the geometry.  
+A shadow mask for the ground section of these boards cannot be made due to the geometry.  
   
 ----------------  
 ## Optional Testing Equipment  
