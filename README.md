@@ -33,15 +33,15 @@ This is a demo photo of the current system design.
 ## Table of Contents  
 - [Current Assets]
   - 🟢[Pixel Combs] ✨  
-  - 🟡[Readout Feedthrough] ✨  
+  - 🟡[Readout Feedthrough]   
   - 🟠[Steel Vessel]  
 - [Planned Development]  
   - 📝[19 Channel SAQ Board] or [2-Three Channel, 2-Four Channel, 1-Five Channel]  
   - 📝[Source Holder] 
 - [Research and Development Tools]
-  - 🟠[Pixel Shadow Masks] ✨
+  - 🟢[Pixel Shadow Masks] ✨
 - [Optional Testing Equipment]
-  - 🟢[Channel Tester] ✨
+  - 🟢[Channel Tester] 
 - [Icon Legend]
   
   
