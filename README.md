@@ -66,7 +66,7 @@ Pixel Comb planes were designed to be used as experimental collection planes for
 <img src="./z.ReadMeAssets/Images/Readout.Adapter.png" width="70%">  
   
 **Description of the PCB Component**  
-<img src="./z.ReadMeAssets/Images/Readout.PCB.png" width="70%">  
+<img src="./z.ReadMeAssets/Images/Readou.PCB.png" width="70%">  
 :: Base Geometry and Dimensions ::  
 PCB.Dimensions : [A] 80 x 80 mm ::: [B] 68 x 68 mm  
 PCB.Thickness : [A] 1.6 mm  ::: [B] 1.6 mm  
