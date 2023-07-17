@@ -1,26 +1,11 @@
 # Comb.Mod.SAQ.Pix
 ::: Important Notes :::  
-I am remaking the models to more organized individual projects. That way if others other than the creator need to be modify it, it is easy to do so.  
-  
+Currently I am working on 3 other projects. This one will be frozen until November 2023.  
+Why the freeze on the project (?)   
+Even though my contribution to other projects are relatively small, the experience I gain from it allows me to greatly improve designs. That is, it becomes easier for me to use programs like Fusion 360 and KiCAD more efficiently and organized but also create designs that are easier to test and handle.  
   
 ✨::: Updates :::✨  
-::: Current :::  
-- Updated ReadoutPCB to allow smoother gas flow
-  
-  
 
-::: Past :::  
-- Updated Shadow Mask Holder Drawing  
-- Ground Section  
-- Sites like "https://www.mcmaster.com/" and "https://www.lesker.com/" have STEP files for feedthroughs  
-   - If you have a list of feedthroughs you would like to include, a link or part# should be enough for me to design around  
-   - If no feedthrough is selected I will attempt to incorporate two feedthrough of the same type for optics, gas, and electrical usage.  
-- Desired bolts and thread specification is needed for designing the vessel  
-  
-♨️:::Extra Info:::♨️  
-- Drawing of Readout Adapter and [Readout Feedthrough] become complete  
-  
-  
 <img src="./z.ReadMeAssets/Images/Demo.png" width="70%">  
 This is a demo photo of the current system design.    
   
