@@ -1,9 +1,5 @@
 # Comb.Mod.SAQ.Pix
-::: Important Notes :::  
-Currently I am working on 3 other projects. This one will be frozen until November 2023.  
-Why the freeze on the project (?)   
-Even though my contribution to other projects are relatively small, the experience I gain from it allows me to greatly improve designs. That is, it becomes easier for me to use programs like Fusion 360 and KiCAD more efficiently and organized but also create designs that are easier to test and handle.  
-  
+
 ✨::: Updates :::✨  
 
 <img src="./z.ReadMeAssets/Images/Demo.png" width="70%">  
@@ -12,7 +8,7 @@ This is a demo photo of the current system design.
 ## Table of Contents  
 - [Current Assets]
   - 🟢[Pixel Combs]   
-  - 🟡[Readout Feedthrough] ✨   
+  - 🟡[Readout Feedthrough]    
   - 🟠[Steel Vessel]  
 - [Planned Development]  
   - 📝[19 Channel SAQ Board] or [2-Three Channel, 2-Four Channel, 1-Five Channel]  
